@@ -1,0 +1,2 @@
+REM rename it build.bat or build.cmd
+g++ -s -Os test.cpp -o test.exe -lgdiplus -municode -mwindows 
